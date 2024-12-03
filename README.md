@@ -13,7 +13,7 @@ Date de Publication : 03 / 12 / 2024
 
 ## **Description**  
 
-La nature humaine est bien plus complexe de ce que l’on croit, ou plus précisément qu’on pense croire. L’amour en est l’exemple concret car il est source de fascination, d’incompréhension et de courage. C’est au moment le plus inhabituel qu’il fait son entrée, troublant, tout en incitant à croire, les personnes touchées par sa flèche. 
+La nature humaine est bien plus complexe de ce que l’on croit, ou plus précisément qu’on pense croire. L’amour en est l’exemple concret car il est source de fascination, d’incompréhension et de courage. C’est au moment le plus inhabituel qu’il fait son entrée, troublant les personnes touchées par sa flèche, tout en les incitant à y croire. 
 
 Pensée qui ne vint guère dans la tête de Fania avant ce fameux moment. Étonnement, elle se retrouva elle-même dans un débat personnel à se questionner sur ce qu’est l’amour. Ses sentiments et ceux du mysterious guy sont-ils réels ? Dans son aventure elle nous pousse à réfléchir et à voir d’un œil que nul n’osait s’imaginer.
 
