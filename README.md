@@ -17,20 +17,26 @@ Pensée qui ne vint guère dans la tête de Fania avant ce fameux moment. Étonn
 
 ## **Informations du Contenu**
 ### **Table des Chapitres**
-#### [Introduction](Introduction.md)
-#### [Chapitre 1](Chapitre-1.md)
-#### [Chapitre 2](Chapitre-2.md)
-#### [Chapitre 3](Chapitre-3.md)
-#### [Chapitre 4](Chapitre-4.md)
-### Thèmes
-#### L'amour
-#### Le questionnement
-#### La pensée humaine 
+#### •	[Introduction](Introduction.md)
+#### •	[Chapitre 1](Chapitre-1.md)
+#### •	[Chapitre 2](Chapitre-2.md)
+#### •	[Chapitre 3](Chapitre-3.md)
+#### •	[Chapitre 4](Chapitre-4.md)
 
-## **Collaborateur**
-### Lune53diva : Gousse Sylvie
-### Tatoo07 : Saint Louis Anne-Sarah
-### Acsenav : Déus Vanesca 
+
+### **Thèmes**
+• L'amour
+•	Le questionnement
+•	La pensée humaine
+ 
+
+## **Collaborateurs**
+
+Lune53diva : Gousse Sylvie
+
+Tatoo07 : Saint Louis Anne-Sarah
+
+Acsenav : Déus Vanesca 
 ###
 
 ## **Droits d'Auteur**
