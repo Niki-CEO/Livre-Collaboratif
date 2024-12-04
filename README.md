@@ -5,8 +5,6 @@ Titre : The Mysterious LOVE
 
 Auteur : Marie Neikha Finis
 
-Éditeur : Marie Neikha Finis
-
 Licence : [MIT](LICENSE)
 
 Date de Publication : 03 / 12 / 2024
@@ -25,6 +23,15 @@ Pensée qui ne vint guère dans la tête de Fania avant ce fameux moment. Étonn
 #### [Chapitre 3](Chapitre-3.md)
 #### [Chapitre 4](Chapitre-4.md)
 ### Thèmes
+#### L'amour
+#### Le questionnement
+#### La pensée humaine 
+
+## **Collaborateur**
+### Lune53diva : Gousse Sylvie
+### Tatoo07 : Saint Louis Anne-Sarah
+### Acsenav : Déus Vanesca 
+###
 
 ## **Droits d'Auteur**
-© 2024 Niki-CEO. Tous droits réservés. Reproduction interdite sans autorisation écrite préalable de l'éditeur.
+© 2024 Niki-CEO et Collaborateurs. Tous droits réservés. Reproduction interdite sans autorisation écrite préalable de l'éditeur.
