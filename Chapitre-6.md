@@ -1,4 +1,4 @@
-git checkout -b ajouter-chapitre
+
 Les jours suivants ,je nageait dans un bonheur mêlé d’inquiétude. Ce contraste même faisait rater des battements de à mon coeur ou accélerer son rythme. 
 
 Cet état d’ésprit me plongeait dans une rêverie notaire qui titillait ma mère qui me rapellait souvent à l’ordre et commençait à deviner la raison’de mes tourments. 
