@@ -22,6 +22,9 @@ Pensée qui ne vint guère dans la tête de Fania avant ce fameux moment. Étonn
 #### •	[Chapitre 2](Chapitre-2.md)
 #### •	[Chapitre 3](Chapitre-3.md)
 #### •	[Chapitre 4](Chapitre-4.md)
+#### • [Chapitre 5](Chapitre-5.md)
+#### • [Chapitre 6](Chapitre-6.md)
+#### • [Chapitre 7](Chapitre-7.md)
 
 
 ### **Thèmes**
