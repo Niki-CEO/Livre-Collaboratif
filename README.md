@@ -25,7 +25,7 @@ Pensée qui ne vint guère dans la tête de Fania avant ce fameux moment. Étonn
 #### • [Chapitre 5](Chapitre-5.md)
 #### • [Chapitre 6](Chapitre-6.md)
 #### • [Chapitre 7](Chapitre-7.md)
-
+#### • [Chapitre 8](Chapitre-8.md)
 
 ### **Thèmes**
 • L'amour
