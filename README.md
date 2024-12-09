@@ -1,4 +1,5 @@
 # Livre-Collaboratif
+## **Page de Couverture**
 ## **Informations de Publication**
 
 Titre : The Mysterious LOVE
@@ -37,12 +38,13 @@ Pensée qui ne vint guère dans la tête de Fania avant ce fameux moment. Étonn
 
 ## **Collaborateurs**
 
-Lune53diva : Gousse Sylvie
+GOUSSE Sylvie
 
-Tatoo07 : Saint Louis Anne-Sarah
+SAINT Louis Anne-Sarah 
 
-Acsenav : Déus Vanesca 
+DÉUS Vanesca 
 
+FABRICE Thernie Djulieissie Lauree
 
 
 ## **Droits d'Auteur**
