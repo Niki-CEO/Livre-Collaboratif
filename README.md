@@ -3,7 +3,9 @@
 
 Titre : The Mysterious LOVE
 
-Auteur : Marie Neikha Finis
+Auteurs : Finis Marie Neikha, Gousse Sylvie, Déus Vanesca, Saint Louis Anne-Sarah
+
+Concepteur de couverture : FABRICE Thernie Djulieissie Lauree
 
 Licence : [MIT](LICENSE)
 
@@ -40,7 +42,11 @@ Lune53diva : Gousse Sylvie
 Tatoo07 : Saint Louis Anne-Sarah
 
 Acsenav : Déus Vanesca 
-###
+
+
 
 ## **Droits d'Auteur**
-© 2024 Niki-CEO et Collaborateurs. Tous droits réservés. Reproduction interdite sans autorisation écrite préalable de l'éditeur.
+© 2024 Niki-CEO et Collaborateurs. Tous droits réservés. Reproduction interdite sans autorisation écrite préalable des auteurs.
+
+## **Contacts**
+Pour toutes questions et permissions veuillez contacter : marieneikhafinis45@gmail.com | 
